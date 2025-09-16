@@ -5,7 +5,7 @@ class Solution:
         hashMap = defaultdict(list)
 
         for word in strs:
-            key = str(sorted(word))
+            key = "".join((sorted(word)))
             hashMap[key].append(word)
 
         return list(hashMap.values())
