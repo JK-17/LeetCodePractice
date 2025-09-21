@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JK-17/LeetCodePractice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/JK-17/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/JK-17/LeetCodePractice/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/JK-17/LeetCodePractice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/JK-17/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/JK-17/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/JK-17/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/JK-17/LeetCodePractice/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/JK-17/LeetCodePractice/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
