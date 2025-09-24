@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JK-17/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/JK-17/LeetCodePractice/tree/master/0155-min-stack) |
 ## Union Find
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/JK-17/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/JK-17/LeetCodePractice/tree/master/0066-plus-one) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/JK-17/LeetCodePractice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
