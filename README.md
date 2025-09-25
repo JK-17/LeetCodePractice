@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JK-17/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/JK-17/LeetCodePractice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/JK-17/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JK-17/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/JK-17/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/JK-17/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JK-17/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/JK-17/LeetCodePractice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/JK-17/LeetCodePractice/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JK-17/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/JK-17/LeetCodePractice/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JK-17/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
