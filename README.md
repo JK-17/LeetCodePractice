@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JK-17/LeetCodePractice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JK-17/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/JK-17/LeetCodePractice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/JK-17/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/JK-17/LeetCodePractice/tree/master/0049-group-anagrams) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JK-17/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/JK-17/LeetCodePractice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/JK-17/LeetCodePractice/tree/master/0125-valid-palindrome) |
 ## Stack
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/JK-17/LeetCodePractice/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JK-17/LeetCodePractice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
