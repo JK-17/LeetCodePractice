@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JK-17/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/JK-17/LeetCodePractice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/JK-17/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
 ## Union Find
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/JK-17/LeetCodePractice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/JK-17/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
 ## Greedy
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/JK-17/LeetCodePractice/tree/master/0175-combine-two-tables) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/JK-17/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
