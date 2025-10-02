@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JK-17/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JK-17/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JK-17/LeetCodePractice/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/JK-17/LeetCodePractice/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/JK-17/LeetCodePractice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/JK-17/LeetCodePractice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/JK-17/LeetCodePractice/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/JK-17/LeetCodePractice/tree/master/0412-fizz-buzz) |
 ## Design
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JK-17/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/JK-17/LeetCodePractice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
