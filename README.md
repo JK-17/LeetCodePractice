@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JK-17/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JK-17/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JK-17/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/JK-17/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JK-17/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/JK-17/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JK-17/LeetCodePractice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/JK-17/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JK-17/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/JK-17/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JK-17/LeetCodePractice/tree/master/0202-happy-number) |
 ## Stack
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/JK-17/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/JK-17/LeetCodePractice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/JK-17/LeetCodePractice/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/JK-17/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JK-17/LeetCodePractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/JK-17/LeetCodePractice/tree/master/0412-fizz-buzz) |
 ## Design
