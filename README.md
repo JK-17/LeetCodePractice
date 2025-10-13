@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JK-17/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JK-17/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/JK-17/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/JK-17/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/JK-17/LeetCodePractice/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JK-17/LeetCodePractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JK-17/LeetCodePractice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/JK-17/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/JK-17/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/JK-17/LeetCodePractice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JK-17/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/JK-17/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/JK-17/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/JK-17/LeetCodePractice/tree/master/0739-daily-temperatures) |
 ## Union Find
 |  |
@@ -155,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/JK-17/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/JK-17/LeetCodePractice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
