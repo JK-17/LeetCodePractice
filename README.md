@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JK-17/LeetCodePractice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/JK-17/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/JK-17/LeetCodePractice/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/JK-17/LeetCodePractice/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/JK-17/LeetCodePractice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JK-17/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/JK-17/LeetCodePractice/tree/master/0860-design-circular-queue) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JK-17/LeetCodePractice/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/JK-17/LeetCodePractice/tree/master/0860-design-circular-queue) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/JK-17/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/JK-17/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/JK-17/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0860-design-circular-queue](https://github.com/JK-17/LeetCodePractice/tree/master/0860-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
