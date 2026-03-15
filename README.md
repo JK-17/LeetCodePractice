@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JK-17/LeetCodePractice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JK-17/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/JK-17/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JK-17/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JK-17/LeetCodePractice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/JK-17/LeetCodePractice/tree/master/0035-search-insert-position) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/JK-17/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/JK-17/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/JK-17/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JK-17/LeetCodePractice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JK-17/LeetCodePractice/tree/master/0125-valid-palindrome) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/JK-17/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/JK-17/LeetCodePractice/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JK-17/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
