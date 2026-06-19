@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/JK-17/LeetCodePractice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/JK-17/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/JK-17/LeetCodePractice/tree/master/0860-design-circular-queue) |
+| [1732-find-the-highest-altitude](https://github.com/JK-17/LeetCodePractice/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JK-17/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/JK-17/LeetCodePractice/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
